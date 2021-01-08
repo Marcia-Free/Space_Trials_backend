@@ -1,8 +1,11 @@
 # README
 
 bundle install
+
 rails s
+
 Start frontend project
+
 https://github.com/Marcia-Free/Phase-3-frontend
 
 
