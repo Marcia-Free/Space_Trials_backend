@@ -1,4 +1,4 @@
-# Space Trials frontend
+# Space Trials backend
 
 
 ## Application Features
