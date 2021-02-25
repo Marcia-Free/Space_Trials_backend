@@ -1,35 +1,30 @@
-# README
-
-bundle install
-
-rails s
-
-Start frontend project
-
-https://github.com/Marcia-Free/Phase-3-frontend
+# Space Trials frontend
 
 
+## Application Features
+* A user can start a game
+* Upon death or level completion a user can enter username in leaderboard.
+* As a user I can navigate through the leve with 2D physics and collect items
+* A user can shoot and destroy enemies, and be destroyed by enemies
+
+## Built With
+* Phaser3 JS Game Engine
+* Javascript frontend
+* Rails backend here (https://github.com/Marcia-Free/Space_Trials_backend)
+* HTML and CSS
 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Install Instructions
+1. ```bundle install```
+2. ```rails s```
+3. Start frontend project here (https://github.com/Marcia-Free/Space_Trials_frontend)
 
-Things you may want to cover:
 
-* Ruby version
+## Authors
+* **Marcia Freeman**
+* **Muhidin Hukic**
+* **Rakshan Hedge**
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Acknowledgments
+Thanks Muhidin for your amazing backend work and Rakshan for your constent encouragement. Dream Team!
