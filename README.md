@@ -16,7 +16,7 @@
 ### Install Instructions
 1. ```bundle install```
 2. ```rails s```
-3. Start frontend project here (https://github.com/Marcia-Free/Space_Trials_frontend)
+3. Start frontend project [here](https://github.com/Marcia-Free/Space_Trials_frontend)
 
 
 ## Authors
